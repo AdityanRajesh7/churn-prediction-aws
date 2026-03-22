@@ -264,7 +264,7 @@ python test_api.py
 
 ## 👤 Author
 
-**Adityan (Raju)**
+**Adityan**
 - Built as a portfolio project demonstrating end-to-end AWS data science capabilities
 - Timeline: 22 days of focused work
 - Location: Kerala, India
