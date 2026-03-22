@@ -12,7 +12,7 @@ A production-grade, end-to-end machine learning pipeline built entirely on AWS t
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](plots/architecture_diagram.png)
+![Architecture Diagram](plots/aws_churn_pipeline_architecture.png)
 
 ```
 Kaggle Dataset
